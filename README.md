@@ -60,13 +60,6 @@ export const stack = {
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,mongodb,redis,graphql,aws,docker,githubactions&theme=dark" alt="stack icons" />
 </p>
 
-<h3>&gt; changelog</h3>
-
-```diff
-+ 2025 → now   Senior Full-Stack   enterprise SaaS for EU/US · load time 3s → <1s · API latency −30% · OpenAI features
-+ 2022 → 2024  Middle Full-Stack   fintech & healthcare UIs · render perf +25% · 5+ third-party integrations
-+ 2021 → 2022  Junior Full-Stack   React component libraries · Node/Express APIs · Git workflow the team adopted
-```
 
 <p align="center">
   <img src="./divider.svg" width="100%" height="8" alt="" />
