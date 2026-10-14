@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 120" width="840" height="120">
+  <defs><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#ff3d00"/><stop offset="1" stop-color="#b026ff"/></linearGradient></defs>
+  <rect x="1" y="1" width="838" height="118" rx="16" fill="#07050b" stroke="#2a2135"/>
+  <rect x="24" y="0" width="792" height="2" fill="url(#ln)"/>
+  <rect x="24" y="0" width="120" height="2" fill="#fff"><animate attributeName="x" values="24;696;24" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/></rect>
+  <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" fill="#fff">
+    <g transform="translate(48 34)" fill="none" stroke="#c026d3" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="0" y="6" width="44" height="40" rx="7"/><path d="M0 18h44M12 0v12M32 0v12"/>
+    </g>
+    <text x="110" y="72" font-size="34" font-weight="800">5+</text><text x="160" y="72" font-size="18" fill="#bfb6cc">years in production</text>
+    <g transform="translate(330 30)" fill="none" stroke="#c026d3" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M44 4 C26 8 14 22 10 36 l10 10 C34 42 48 30 52 12 z"/><circle cx="34" cy="22" r="5"/><path d="M10 36 l-8 2 6 -12 M20 46 l-2 8 12 -6 M4 52 l8 -8"/>
+    </g>
+    <text x="402" y="72" font-size="34" font-weight="800">10+</text><text x="470" y="72" font-size="18" fill="#bfb6cc">shipped products</text>
+    <g transform="translate(628 32)" fill="none" stroke="#c026d3" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="16" cy="12" r="9"/><circle cx="34" cy="12" r="9"/><path d="M0 50 c0-14 8-22 16-22 s16 8 16 22 M22 30 c4-2 8-2 12-2 8 0 16 8 16 22"/>
+    </g>
+    <text x="700" y="64" font-size="30" font-weight="800">0–10K</text><text x="700" y="88" font-size="16" fill="#bfb6cc">users served</text>
+  </g>
+</svg>
